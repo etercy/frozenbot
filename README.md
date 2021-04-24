@@ -10,7 +10,7 @@ serve pra ajudar quem não entende de código, entender, mesmo que seja o básic
 Se você deseja entender a fundo esse código de cinco linhas, entre em contato comigo, ficarei feliz em te ajudar :)
 
 *O código não lê acentos, pois o pyautogui.typewrite não cosegue identificar como digitar isso no teclado (por 
-ser formatação POR PTB2), então recomendo que edite e tire acentuações ou coloque um roteiro em inglês, ou coloque,
+ser formatação POR PTB), então recomendo que edite e tire acentuações ou coloque um roteiro em inglês, ou coloque,
 linha por linha, o comando para que o typewrite aperte cada tecla única ou um ctrl c + v em cada palavra.
 
 Agradeço a atenção c:
