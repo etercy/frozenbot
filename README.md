@@ -1,5 +1,5 @@
-# frozenbot
-A magic five lines spammer bot. Inspired.
+# frozen spammer
+A magic five lines spammer. Inspired.
 
 
 Muito obrigada por utilizar esse bot! Que você pertube muito seus amigos, e mesmo assim eles continuem te amando!
